@@ -65,7 +65,7 @@ Acknowledgements
 ----------------
 
 Thanks to the social scientists at *National Center for Education Statistics* and
-*Education Statistics Services Institute* and who did the research that produced this
+*Education Statistics Services Institute* who did the research that produced this
 dataset. Their valuable work is documented at <http://nces.ed.gov/ccd/pdf/INsc09101a.pdf>.
 
 [CSV]: https://inventory.data.gov/dataset/c325a86a-a0da-479d-bb87-cdbf88833b25/resource/102fd9bd-4737-401b-b88f-5c5b0fab94ec/download/userssharedsdfpublicelementarysecondaryunivsrvy200910.csv
