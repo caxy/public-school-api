@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "doctrine/dbal": "^2.5",
+        "silex/silex": "^2.0@dev",
+        "vlucas/phpdotenv": "^2.2"
+    }
+}
