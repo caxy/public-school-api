@@ -19,6 +19,8 @@ Installation
    <http://www.ed.gov/developers>. The file download was unreliable for me, so you will
    want to use `wget -c` and also verify a checksum. You should end up with 103,345,840
    bytes. See below.
+1. Delete the second line of the file. I don't know why, but the headers are there
+   twice which probably will break your import.
 1. Import the CSV file into the `schools` table in your new database. I used Sequel Pro
    but do what you want.
 1. `cp .env.example .env`
